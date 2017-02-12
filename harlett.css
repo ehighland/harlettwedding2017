@@ -180,3 +180,18 @@ main {
 	font-weight: bold;
 	color: #000000;
 }
+
+img.sloth {
+	width: 50%;
+	height: 33%;
+}
+
+img.couple {
+	width: 80%;
+	height: 60%;
+}
+
+img.frame {
+	width: 75%;
+	height: 100px;
+}
