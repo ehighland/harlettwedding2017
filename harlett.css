@@ -61,7 +61,7 @@ main {
 	margin: 0;
     border: 15px solid transparent;
     padding: 15px;
-    /*-webkit-border-image: url(frame-top.png) 30 round;*/
+    -webkit-border-image: url(frame-top.png) 30 round;
     -moz-border-image: url(frame-top.png) 30 round;
     -o-border-image: url(frame-top.png) 30 round;
     border-image: url(frame-top.png) 30 round;
@@ -77,6 +77,8 @@ main {
     border: 15px solid transparent;
     padding: 15px;
     -webkit-border-image: url(frame-top.png) 30 round;
+    -moz-border-image: url(frame-top.png) 30 round;
+    -o-border-image: url(frame-top.png) 30 round;
     border-image: url(frame-top.png) 30 round;
 }
 
@@ -96,6 +98,8 @@ main {
     border: 15px solid transparent;
     padding: 15px;
     -webkit-border-image: url(frame-top.png) 30 round;
+    -moz-border-image: url(frame-top.png) 30 round;
+    -o-border-image: url(frame-top.png) 30 round;
     border-image: url(frame-top.png) 30 round;
 }
 
@@ -108,7 +112,7 @@ main {
 	margin: 0;
     border: 15px solid transparent;
     padding: 15px;
-    /*-webkit-border-image: url(frame-top.png) 30 round;*/
+    -webkit-border-image: url(frame-top.png) 30 round;
     -moz-border-image: url(frame-top.png) 30 round;
     -o-border-image: url(frame-top.png) 30 round;
     border-image: url(frame-top.png) 30 round;
@@ -157,7 +161,7 @@ main {
 	margin: 0;
     border: 15px solid transparent;
     padding: 15px;
-    /*-webkit-border-image: url(frame-top.png) 30 round;*/
+    -webkit-border-image: url(frame-top.png) 30 round;
     -moz-border-image: url(frame-top.png) 30 round;
     -o-border-image: url(frame-top.png) 30 round;
     border-image: url(frame-top.png) 30 round;
@@ -180,6 +184,28 @@ main {
 	font-weight: bold;
 	color: #000000;
 }
+
+#gifts {	
+	margin: 0;
+	border: 15px solid transparent;
+	padding: 15px;
+    -webkit-border-image: url(frame-top.png) 30 round;
+    -moz-border-image: url(frame-top.png) 30 round;
+    -o-border-image: url(frame-top.png) 30 round;
+    border-image: url(frame-top.png) 30 round;
+}
+
+#gifts p {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#gifts a {
+	text-decoration: underline;
+	font-weight: bold;
+	color: #000000;
+}
+
 
 img.sloth {
 	width: 50%;
